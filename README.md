@@ -27,5 +27,5 @@ Based in Argentina 🇦🇷 — open to international opportunities.
 ---
 
 ### 📫 Contact
-- LinkedIn: www.linkedin.com/in/tomas-montesinos  
+- LinkedIn: linkedin.com/in/tomas-montesinos  
 - Email: montesinost01@gmail.com
