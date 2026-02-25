@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋  
+### Tomas Montesinos  
+**Backend-Focused Engineer**
 
-<!--
-**tmontesinos01/tmontesinos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer with 5+ years of experience building scalable web platforms and administrative systems.  
+Focused on clean architecture, maintainable codebases, and product-driven development.
 
-Here are some ideas to get you started:
+Based in Argentina 🇦🇷 — open to international opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Focus
+- Backend Architecture  
+- TypeScript / Node.js  
+- Scalable System Design  
+- Clean & Modular Architectures  
+- Performance & Reliability  
+
+---
+
+### 🧠 Interests
+- System Design  
+- Secure Application Development  
+- Web Security Fundamentals (OWASP)  
+- Long-Term Maintainability in Complex Systems  
+
+---
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/tomas-montesinos  
+- Email: montesinost01@gmail.com
